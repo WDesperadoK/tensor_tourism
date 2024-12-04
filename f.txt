@@ -1,0 +1,68 @@
+0 layer
+Epoch 6
+        Validation Accuracy:0.9018
+        Validation Loss:0.3139
+        Validation AUROC:0.942
+        Train Accuracy:0.9489
+        Train Loss:0.1501
+        Train AUROC:0.9882
+        Test Accuracy:0.7414
+        Test Loss:0.7664
+        Test AUROC:0.7714
+1 layer
+Epoch 5
+        Validation Accuracy:0.8929
+        Validation Loss:0.3277
+        Validation AUROC:0.9357
+        Train Accuracy:0.9467
+        Train Loss:0.1566
+        Train AUROC:0.99
+        Test Accuracy:0.7414
+        Test Loss:0.7027
+        Test AUROC:0.7937
+2 layer
+Epoch 9
+        Validation Accuracy:0.8973
+        Validation Loss:0.3272
+        Validation AUROC:0.9342
+        Train Accuracy:0.9333
+        Train Loss:0.2172
+        Train AUROC:0.976
+        Test Accuracy:0.7328
+        Test Loss:0.5675
+        Test AUROC:0.8231
+3 layer
+Epoch 63
+        Validation Accuracy:0.8393
+        Validation Loss:0.3883
+        Validation AUROC:0.9101
+        Train Accuracy:0.8133
+        Train Loss:0.3874
+        Train AUROC:0.8984
+        Test Accuracy:0.7414
+        Test Loss:0.5839
+        Test AUROC:0.8219
+
+
+
+
+
+source:
+Epoch 20
+        Validation Accuracy:0.6533
+        Validation Loss:1.0768
+        Validation AUROC:0.9174
+        Train Accuracy:0.9097
+        Train Loss:0.3271
+        Train AUROC:0.9951
+target:
+Epoch 10
+        Validation Accuracy:0.8393
+        Validation Loss:0.4205
+        Validation AUROC:0.9304
+        Train Accuracy:0.99
+        Train Loss:0.0457
+        Train AUROC:0.9995
+        Test Accuracy:0.8448
+        Test Loss:0.4719
+        Test AUROC:0.9328  freeze one layer, keep original
